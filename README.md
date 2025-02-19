@@ -1,28 +1,11 @@
 # hi hello test me name marcell we good yes
 
-## How much JavaScript do you need to know to use Node.js?
-As a beginner, it's hard to get to a point where you are confident enough in your programming abilities. While learning to code, you might also be confused at where does JavaScript end, and where Node.js begins, and vice versa.
+## Name     : Marcellinus Ganesia Luviandanu
+## ID       : 2702359572
+## Class    : L4CC
 
-# 🚀 Prerequisites for Learning Node.js
 
-Before diving deep into **Node.js**, it is recommended to have a strong understanding of the following JavaScript concepts:
+The V8 JavaScript Engine
+V8 is the name of the JavaScript engine that powers Google Chrome. It's the thing that takes our JavaScript and executes it while browsing with Chrome.
 
-## 📌 Essential JavaScript Concepts
-- **Lexical Structure**
-- **Expressions**
-- **Data Types**
-- **Classes**
-- **Variables**
-- **Functions**
-- **this Operator**
-- **Arrow Functions**
-- **Loops**
-- **Scopes**
-- **Arrays**
-- **Template Literals**
-- **Strict Mode**
-- **ECMAScript 2015 (ES6) and Beyond**
-
-With these concepts in mind, you are well on your way to becoming a proficient JavaScript developer, both in the browser and in **Node.js**.
-
-Happy coding! 🚀
+V8 is the JavaScript engine i.e. it parses and executes JavaScript code. The DOM, and the other Web Platform APIs (they all makeup runtime environment) are provided by the browser.
