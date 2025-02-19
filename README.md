@@ -1,11 +1,10 @@
 # GitHub Branch N Merge
 
-=======
 ## Name     : Marcellinus Ganesia Luviandanu
-## ID       : 2702359572
-## Class    : L4CC
+### ID       : 2702359572
+### Class    : L4CC
 
-
+## What is Node.js
 Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
 
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
@@ -19,20 +18,24 @@ When Node.js performs an I/O operation, like reading from the network, accessing
 This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
 
 Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
 ### An Example Node.js Application
-The most common example Hello World of Node.js is a web server:
+The most common example Hello World of Node.js for a web server:
+
 ![Picture web](https://i.sstatic.net/3MdbZ.png)
->>>>>>> experiment
-
-## Name     : Marcellinus Ganesia Luviandanu
-## ID       : 2702359572
-## Class    : L4CC
 
 
-The V8 JavaScript Engine
+
+## The V8 JavaScript Engine
 V8 is the name of the JavaScript engine that powers Google Chrome. It's the thing that takes our JavaScript and executes it while browsing with Chrome.
 
-<<<<<<< HEAD
+V8 is the JavaScript engine i.e. it parses and executes JavaScript code. The DOM, and the other Web Platform APIs (they all makeup runtime environment) are provided by the browser.
+
+The cool thing is that the JavaScript engine is independent of the browser in which it's hosted. This key feature enabled the rise of Node.js. V8 was chosen to be the engine that powered Node.js back in 2009, and as the popularity of Node.js exploded, V8 became the engine that now powers an incredible amount of server-side code written in JavaScript.
+
+The Node.js ecosystem is huge and thanks to V8 which also powers desktop apps, with projects like Electron.
+
+
 ## 📌 Essential JavaScript Concepts
 - **Lexical Structure**
 - **Expressions**
@@ -63,6 +66,3 @@ The following concepts are also key to understand asynchronous programming, whic
 
 Happy coding! 🚀
 
-=======
-V8 is the JavaScript engine i.e. it parses and executes JavaScript code. The DOM, and the other Web Platform APIs (they all makeup runtime environment) are provided by the browser.
->>>>>>> feature
